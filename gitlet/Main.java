@@ -14,7 +14,7 @@ import java.nio.file.Files;
 
 
 /** Driver class for Gitlet, the tiny stupid version-control system.
- *  @author Wesley wan and Peter Lee
+ *  @author Peter Lee
  */
 
 public class Main implements Serializable {
