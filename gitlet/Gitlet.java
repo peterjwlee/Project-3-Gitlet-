@@ -16,7 +16,7 @@ import java.util.ArrayList;
 
 
 /**
- * @author wesleywan and peterlee on 12/5/15.
+ * @author peterlee on 12/5/15.
  */
 public class Gitlet implements Serializable {
 
