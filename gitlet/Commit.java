@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * @author wesleywan and peterlee on 12/2/15.
+ * @author peterlee on 12/2/15.
  */
 public class Commit implements Serializable {
 
