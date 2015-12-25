@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.Map;
 
 /**
- * @author wesleywan and peterlee on 12/2/15.
+ * @author peterlee on 12/2/15.
  */
 public class Branch implements Serializable {
     /** The commit of this branch. */
